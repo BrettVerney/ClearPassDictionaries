@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Wed Jan 27 14:16:47 PST 2016" version="6.5"/>
+	<ApplDictionaries>
+		<ApplDictionary description="ALE Application Attributes" name="ALE">
+			<ApplDictionaryAttributes attrType="String" attrName="Role"/>
+		</ApplDictionary>
+	</ApplDictionaries>
+</TipsContents> 
