@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+  <TipsHeader exportTime="Fri Apr 22 00:27:39 AEST 2022" version="6.9"/>
+  <TacacsServiceDictionaries>
+    <TacacsServiceDictionary dispName="PPP:IP" name="ppp:ip">
+      <ServiceAttribute dataType="String" dispName="Input access list" name="inacl"/>
+      <ServiceAttribute dataType="String" dispName="Output access list" name="outacl"/>
+      <ServiceAttribute dataType="String" dispName="Route" name="route"/>
+      <ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="Routing enabled" name="routing"/>
+	  <ServiceAttribute dataType="String" dispName="ADC-User" name="ADC-User"/>
+    </TacacsServiceDictionary>
+  </TacacsServiceDictionaries>
+</TipsContents>
