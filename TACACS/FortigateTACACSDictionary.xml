@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents
+	xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Wed Sep 16 15:08:59 CEST 2020" version="6.9"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="fortigate" name="fortigate">
+			<ServiceAttribute dataType="String" dispName="service" name="service"/>
+			<ServiceAttribute dataType="String" dispName="memberof" name="memberof"/>
+			<ServiceAttribute dataType="String" dispName="admin_prof" name="admin_prof"/>
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
