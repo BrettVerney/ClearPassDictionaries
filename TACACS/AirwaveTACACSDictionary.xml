@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Mon Feb 25 11:04:56 MST 2013" version="6.0"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="AMP:https" name="AMP:https">
+			<ServiceAttribute dataType="String" dispName="role" name="role"/>
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
