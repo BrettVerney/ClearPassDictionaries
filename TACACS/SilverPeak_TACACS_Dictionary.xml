@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Tue Nov 21 10:55:20 EST 2017" version="6.6"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="SilverPeak:IP" name="silverpeak:ip">
+			<ServiceAttribute dataType="String" dispName="role" name="role"/>
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
