@@ -1,0 +1,11 @@
+<?xml version="1.0<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Tue Jan 06 17:52:52 EST 2015" version="6.4"/>
+	<Dictionaries>
+		<Vendor vendorEnabled="true" prefix="Splunk" name="Radius:Splunk" id="27389">
+			<RadiusAttributes>
+				<Attribute profile="out" type="String" name="groups" id="1"/>
+			</RadiusAttributes>
+		</Vendor>
+	</Dictionaries>
+</TipsContents>
