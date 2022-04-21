@@ -11,6 +11,8 @@ These files are uploaded to ClearPass via the following location.
 .
 ├── Application
 │   └── Aruba_ALE_Application_Dictionary.xml
+├── RADIUS
+│   └── Splunk_RADIUS_Dictionary.xml
 └── TACACS
     ├── Aruba_Airwave_TACACS_Dictionary.xml
     ├── Fortinet_Fortigate_TACACS_Dictionary.xml
