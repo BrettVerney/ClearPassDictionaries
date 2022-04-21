@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Sat Mar 11 12:32:00 EST 2017" version="6.6"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="PaloAlto:firewall" name="PaloAlto:firewall">
+			<ServiceAttribute dataType="String" dispName="PaloAlto-Admin-Role" name="PaloAlto-Admin-Role"/>
+			<ServiceAttribute dataType="String" dispName="PaloAlto-Admin-Access-Domain" name="PaloAlto-Admin-Access-Domain"/>
+			<ServiceAttribute dataType="String" dispName="PaloAlto-Panorama-Admin-Role" name="PaloAlto-Panorama-Admin-Role"/>
+			<ServiceAttribute dataType="String" dispName="PaloAlto-Panorama-Admin-Access-Domain" name="PaloAlto-Panorama-Admin-Access-Domain"/>
+			<ServiceAttribute dataType="String" dispName="PaloAlto-User-Group" name="PaloAlto-User-Group"/>
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
