@@ -13,8 +13,8 @@ These files are uploaded to ClearPass via the following location.
 │   └── Aruba_ALE_Application_Dictionary.xml
 └── TACACS
     ├── Aruba_Airwave_TACACS_Dictionary.xml
-    ├── F5_TACACS_Dictionary.xml
     ├── Fortinet_Fortigate_TACACS_Dictionary.xml
     ├── PaloAlto_PanOS_TACACS_Dictionary
+    ├── PPP-IP_TACACS_Dictionary.xml
     └── SilverPeak_TACACS_Dictionary.xml
 ```
