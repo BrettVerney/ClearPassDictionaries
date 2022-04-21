@@ -7,7 +7,8 @@
       <ServiceAttribute dataType="String" dispName="Output access list" name="outacl"/>
       <ServiceAttribute dataType="String" dispName="Route" name="route"/>
       <ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="Routing enabled" name="routing"/>
-	  <ServiceAttribute dataType="String" dispName="ADC-User" name="ADC-User"/>
+      <!--F5 Appliances-->
+      <ServiceAttribute dataType="String" dispName="ADC-User" name="ADC-User"/>
     </TacacsServiceDictionary>
   </TacacsServiceDictionaries>
 </TipsContents>
