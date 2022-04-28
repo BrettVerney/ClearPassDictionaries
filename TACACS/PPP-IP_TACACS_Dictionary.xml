@@ -7,12 +7,12 @@
       <ServiceAttribute dataType="String" dispName="Output access list" name="outacl"/>
       <ServiceAttribute dataType="String" dispName="Route" name="route"/>
       <ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="Routing enabled" name="routing"/>
-      <!--F5 Appliances-->
+      <!--F5 Appliances START-->
       <ServiceAttribute dataType="String" dispName="ADC-User" name="ADC-User"/>
-      <!--F5 Appliances-->
-      <!--Dell EMC OS10 -->
+      <!--F5 Appliances END-->
+      <!--Dell EMC OS10 START-->
       <ServiceAttribute dataType="String" dispName="shell:roles" name="shell:roles"/>
-      <!--Dell EMC OS10 -->
+      <!--Dell EMC OS10 END-->
     </TacacsServiceDictionary>
   </TacacsServiceDictionaries>
 </TipsContents>
