@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Thu Apr 28 22:52:42 AEST 2022" version="6.9"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="Shell" name="shell">
+			<ServiceAttribute dataType="String" dispName="Access control list" name="acl"/>
+			<ServiceAttribute dataType="String" dispName="Auto command" name="autocmd"/>
+			<ServiceAttribute dataType="String" dispName="Callback line" name="callback-line"/>
+			<ServiceAttribute dataType="String" dispName="Callback rotary" name="callback-rotary"/>
+			<ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="No callback verify" name="nocallback-verify"/>
+			<ServiceAttribute dataType="Unsigned32" dispName="Idle time" name="idletime"/>
+			<ServiceAttribute dataType="Unsigned32" dispName="Timeout" name="timeout"/>
+			<ServiceAttribute dataType="Unsigned32" dispName="Privilege level" name="priv-lvl"/>
+			<ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="No hangup" name="nohangup"/>
+			<ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="No escape" name="noescape"/>
+			<!--Arista EOS Switches-->
+			<ServiceAttribute allowedValuesCsv="network-admin,network-operator" dataType="String" dispName="cvp-roles" name="cvp-roles"/>
+			<!--Arista EOS Switches-->
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
