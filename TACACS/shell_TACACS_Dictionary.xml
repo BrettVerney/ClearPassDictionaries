@@ -13,9 +13,9 @@
 			<ServiceAttribute dataType="Unsigned32" dispName="Privilege level" name="priv-lvl"/>
 			<ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="No hangup" name="nohangup"/>
 			<ServiceAttribute allowedValuesCsv="true,false" dataType="String" dispName="No escape" name="noescape"/>
-			<!--Arista EOS Switches-->
+			<!--Arista EOS Switches START-->
 			<ServiceAttribute allowedValuesCsv="network-admin,network-operator" dataType="String" dispName="cvp-roles" name="cvp-roles"/>
-			<!--Arista EOS Switches-->
+			<!--Arista EOS Switches END-->
 		</TacacsServiceDictionary>
 	</TacacsServiceDictionaries>
 </TipsContents>
