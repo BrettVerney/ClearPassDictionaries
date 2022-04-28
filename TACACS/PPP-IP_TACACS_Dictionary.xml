@@ -10,6 +10,9 @@
       <!--F5 Appliances-->
       <ServiceAttribute dataType="String" dispName="ADC-User" name="ADC-User"/>
       <!--F5 Appliances-->
+      <!--Dell EMC OS10 -->
+      <ServiceAttribute dataType="String" dispName="shell:roles" name="shell:roles"/>
+      <!--Dell EMC OS10 -->
     </TacacsServiceDictionary>
   </TacacsServiceDictionaries>
 </TipsContents>
