@@ -1,0 +1,11 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TipsContents xmlns="http://www.avendasys.com/tipsapiDefs/1.0">
+	<TipsHeader exportTime="Thu Apr 28 23:33:48 AEST 2022" version="6.9"/>
+	<TacacsServiceDictionaries>
+		<TacacsServiceDictionary dispName="tacacs:ip" name="tacacs:ip">
+			<!--Ruckus SmartZone START-->
+			<ServiceAttribute dataType="String" dispName="Ruckus-User-Group" name="Ruckus-User-Group"/>
+			<!--Ruckus SmartZone END-->
+		</TacacsServiceDictionary>
+	</TacacsServiceDictionaries>
+</TipsContents>
